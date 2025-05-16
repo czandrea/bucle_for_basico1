@@ -37,7 +37,6 @@ for i in range(2024, 0, -3):
 # ------------------------------------------
 # 6. Contador dinámico: establece tres variables: numInicial, numFinal y multiplo. Comenzando en numInicial y pasando por numFinal, imprime los números enteros que sean múltiplos de multiplo.
 print("\nEjercicio 6: Contador dinámico")
-# Puedes cambiar estos valores si deseas probar otros casos.
 numInicial = 5
 numFinal = 50
 multiplo = 7
